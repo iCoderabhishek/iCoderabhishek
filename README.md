@@ -26,7 +26,7 @@ Things i make-
 
 `UI` &nbsp; **ToddlerUI** · component library for developers · [code](https://github.com/iCoderabhishek/ToddlerUI) · [live](https://toddler-ui.vercel.app)
 
-`Portfolio` &nbsp; **0bhishek.tech** · my developer portfolio · [code](https://github.com/iCoderabhishek/0bhishek.tech) · [live](https://www.0bhishek.tech)
+`Portfolio` &nbsp; **0bhishek.com** · my developer portfolio · [code](https://github.com/iCoderabhishek/0bhishek.com) · [live](https://www.0bhishek.com)
 
 ---
 
